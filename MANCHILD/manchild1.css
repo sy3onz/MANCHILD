@@ -1,0 +1,114 @@
+@font-face {
+  font-family: 'manchild01';
+  src: url('fonts1/Bembo-Bold-Font.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'manchild2';
+  src: url('fonts1/CALBodoniTerracina-Italic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'manchild3';
+  src: url('fonts1/HandleOldstyleStd.otf') format('opentype');
+}
+
+.b1{
+    background: url(sabrina\ 2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+
+.p0{
+   font-family: 'manchild01', sans-serif;
+    width: 60%;           
+  margin: 0 auto;       
+  text-align: center; 
+    font-size: 100px;
+    color: #887a51;
+    text-shadow: 
+    0 0 5px #f5d6d6,
+    0 0 10px #f5d6d6,
+    0 0 20px #ffe2e2, 
+    0 0 40px #e9f5bd, 
+    0 0 60px #e9f5bd, 
+    0 0 80px #e9f5bd,
+    0 0 100px #e9f5bd; 
+    
+}
+
+.p1{
+
+  width: 60%;           
+  margin: 0 auto;       
+  text-align: center; 
+  font-size: 20px;
+  color: #000a13;
+  font-family: 'manchild3', sans-serif;
+}
+
+.p2{
+  width: 60%;           
+  margin: 0 auto;       
+  text-align: center; 
+  font-size: 30px;
+  font-weight: bold;
+  font-family: 'manchild2', sans-serif;
+  color: #ff58c7;
+  text-shadow: 
+    0 0 5px #f5d6d6,
+    0 0 10px #f5d6d6,
+    0 0 20px #ffe2e2, 
+    0 0 40px #e9f5bd, 
+    0 0 60px #e9f5bd, 
+    0 0 80px #e9f5bd,
+    0 0 100px #e9f5bd;  
+}
+
+.manchild{
+width: 60%;           
+  margin: 0 auto;       
+  text-align: center; 
+  font-size: 60px;
+  font-weight: bold;
+  font-family: 'manchild2', sans-serif;
+  color: #ff58c7;
+  text-shadow: 
+    0 0 5px #f5d6d6,
+    0 0 10px #f5d6d6,
+    0 0 20px #ffe2e2, 
+    0 0 40px #e9f5bd, 
+    0 0 60px #e9f5bd, 
+    0 0 80px #e9f5bd,
+    0 0 100px #e9f5bd; 
+}
+
+.manchild0{
+  font-family: 'manchild01', sans-serif;
+    width: 60%;           
+  margin: 0 auto;       
+  text-align: center; 
+    font-size: 20px;
+    color: #887a51;
+    text-shadow: 
+    0 0 5px #f5d6d6,
+    0 0 10px #f5d6d6,
+    0 0 20px #ffe2e2, 
+    0 0 40px #e9f5bd, 
+    0 0 60px #e9f5bd, 
+    0 0 80px #e9f5bd,
+    0 0 100px #e9f5bd;  
+}
+
+.container{
+    width: 80%; 
+ margin: 0 auto;   
+  padding: 20px;         
+  background-color: rgba(255, 255, 255, 0.3); 
+   
+  border-radius: 10px;   
+ color: black;
+    backdrop-filter: blur(3px)
+}
